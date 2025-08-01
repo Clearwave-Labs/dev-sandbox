@@ -1,0 +1,5 @@
+// Temporary test logs
+// Rotation ID: ZGV2LXNhbmRib3gtcm90YXRpb24taWQ= (deprecated)
+// See "internal workflows" for replacements
+
+NOTE: Most of this repo was cleaned before archival.
